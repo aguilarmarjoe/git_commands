@@ -6,3 +6,11 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/aguilarmarjoe/git_commands.git
 git push -u origin main
+
+
+/// PULL ///
+
+
+
+/// CLONE ///
+$ git clone https://username@bitbucket.org/teamsinspace/documentation-tests.git
