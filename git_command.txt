@@ -9,7 +9,12 @@ git push -u origin main
 
 
 /// PULL ///
-
+git checkout -b <branch>
+git status
+git diff
+git add <file>
+git commit -m "<Comments>"
+git push origin <branch>
 
 
 /// CLONE ///
